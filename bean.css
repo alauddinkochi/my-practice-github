@@ -1,0 +1,18 @@
+.bean{
+    padding: 25px 20px 50px 10px;
+}
+.wiki{
+    padding-bottom: 20px;
+    /* margin: 20px 20px; */
+}
+.form{
+    display: block;
+    margin-bottom: 10px;
+    font-size: larger;
+    
+}
+.sub{
+    background-color: rgb(157, 185, 184);
+    font-style: italic;
+    
+}
